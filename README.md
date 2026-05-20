@@ -1,3 +1,12 @@
+# READ FIRST - About this fork
+This fork adds RivaTuner Statistics Server (RTSS) support to Libre Hardware Monitor.
+It requires RTSS 2.1 or higher.
+Additional sensors with current FPS of all running apps will show up in the GPU's "Factors" section:
+
+<img width="395" height="171" alt="image" src="https://github.com/user-attachments/assets/f3583dd0-5213-48bc-909b-c7179229e9e1" />
+
+Remote Web-Server is also supported with minor layout bugs caused by the dynamic adding and removing of the FPS sensors.
+
 # LibreHardwareMonitor
 [![GitHub license](https://img.shields.io/github/license/LibreHardwareMonitor/LibreHardwareMonitor)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/blob/master/LICENSE) [![Nuget](https://img.shields.io/nuget/v/LibreHardwareMonitorLib)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/LibreHardwareMonitorLib?label=nuget-pre)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget](https://img.shields.io/nuget/dt/LibreHardwareMonitorLib?label=nuget-downloads)](https://www.nuget.org/packages/LibreHardwareMonitorLib/)
 
