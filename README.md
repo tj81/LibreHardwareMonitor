@@ -7,6 +7,8 @@ Additional sensors with current FPS of all running apps will show up in the GPU'
 
 Remote Web-Server is also supported with minor layout bugs caused by the dynamic adding and removing of the FPS sensors.
 
+[Download latest version](https://github.com/tj81/LibreHardwareMonitor/releases)
+
 # LibreHardwareMonitor
 [![GitHub license](https://img.shields.io/github/license/LibreHardwareMonitor/LibreHardwareMonitor)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/blob/master/LICENSE) [![Nuget](https://img.shields.io/nuget/v/LibreHardwareMonitorLib)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/LibreHardwareMonitorLib?label=nuget-pre)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget](https://img.shields.io/nuget/dt/LibreHardwareMonitorLib?label=nuget-downloads)](https://www.nuget.org/packages/LibreHardwareMonitorLib/)
 
